@@ -1,0 +1,9 @@
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe.config
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.pdb
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\obj\Debug\WindowsServiceTutotial.csproj.AssemblyReference.cache
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\obj\Debug\WindowsServiceTutotial.ProjectInstaller.resources
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\obj\Debug\WindowsServiceTutotial.csproj.GenerateResource.cache
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\obj\Debug\WindowsServiceTutotial.csproj.CoreCompileInputs.cache
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\obj\Debug\WindowsServiceTutotial.exe
+C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\obj\Debug\WindowsServiceTutotial.pdb

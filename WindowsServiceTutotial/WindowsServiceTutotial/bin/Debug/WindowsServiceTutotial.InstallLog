@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe
+   logfile = C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe
+   logfile = C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.InstallLog
+Uninstalling assembly 'C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.exe
+   logfile = C:\Users\carolina.ruiz\source\repos\WindowsServiceTutotial\WindowsServiceTutotial\bin\Debug\WindowsServiceTutotial.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
